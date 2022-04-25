@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melrauinaz
+- 👋 Hi, I’m @melrauinaz, love futzing around with technology since '81, yes i know/knew fortran, cobalt and basic ;)
 - 👀 I’m interested in programming, always teaching myself new stuff. :)
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on data science projects, php stuff.
