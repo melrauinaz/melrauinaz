@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, always teaching myself new stuff. :)
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on data science projects using python.
-- 🛻 working on self driving car that doesn't use libraries so I can better understand Neural Networks.
+- working on self driving car that doesn't use libraries so I can better understand Neural Networks.
 - 📫 How to reach me: mel@melrauinaz.com
 
 <!---
