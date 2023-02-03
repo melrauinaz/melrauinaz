@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melrauinaz, love futzing around with technology ;)
+- 👋 Hi, I’m @melrauinaz, love all things tech! ;)
 - 👀 I’m interested in computer programming, always teaching myself new stuff. :)
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on data science projects using python.
