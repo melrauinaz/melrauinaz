@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science projects using python.
 - 🌱 Neural Networks - Currently working on self driving car that doesn't use libraries so I can better understand implementation of Neural Networks.
 - 
-- 📫 How to reach me: mel@melrauinaz.com
+- 📫 How to reach me: mel@melissacs.io
 
 <!---
 melrauinaz/melrauinaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
