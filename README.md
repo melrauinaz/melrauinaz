@@ -4,7 +4,6 @@
 - 🌱 Fine tuning my SQL skills on DataLemur, StratScratch Platforms!
 - 💞️ I’m looking to collaborate on data science projects using python.
 - 🌱 Neural Networks - Currently working on self driving car that doesn't use libraries so I can better understand implementation of Neural Networks.
-- 
 - 📫 How to reach me: mel@melissacs.io
 
 <!---
