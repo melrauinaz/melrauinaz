@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melrauinaz, love all things tech! ;)
 - 👀 I’m interested in computer programming, always teaching myself new stuff. :)
 - 🌱 I’m currently learning Python!
-- 🌱 Currently enrolled in DataCamp.com - <a target="_blank" href="https://www.datacamp.com/portfolio/melissa-s-rau">DataCamp MSRau</a>
+- 🌱 Currently enrolled in DataCamp.com - <a href="https://www.datacamp.com/portfolio/melissa-s-rau" target="_blank">DataCamp MSRau</a>
 - 🌱 Fine-tuning my SQL skills on DataLemur, StratScratch Platforms!
 - 💞️ I’m looking to collaborate on data science projects using Python.
 - 🌱 Neural Networks - Currently working on self-driving car that doesn't use libraries so I can better understand the implementation of Neural Networks.
