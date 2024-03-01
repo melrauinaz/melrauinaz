@@ -5,7 +5,7 @@
 - 🌱 Fine-tuning my SQL skills on DataLemur, StratScratch Platforms!
 - 💞️ I’m looking to collaborate on data science projects using Python.
 - 🌱 Neural Networks - Currently working on self-driving car that doesn't use libraries so I can better understand the implementation of Neural Networks.
-- 📫 How to reach me: mel@melissacs.io
+- 📫 How to reach me: mel@melissacs.com
 
 <!---
 melrauinaz/melrauinaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
