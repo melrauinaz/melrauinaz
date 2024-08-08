@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melissa and I love all things tech! ;)
-- 👀 As a computer programmer, always teaching myself new stuff. :)
+- 👀 Skills include Javascript, PHP, SQL, CSS5, Bootstrap, Data Analysis, Bash/Shell, Linux
 - Certified DataAnalyst thru ATLytiCS Data for Hope: <a href="https://atlytics.org/units/education/">ATLytiCS</a>
 - :computer: Keep my skills fresh on DataCamp.com - <a href="https://www.datacamp.com/portfolio/melissa-s-rau">DataCamp MSRau</a>                                         
 - 🌱 I’m currently learning Python!
