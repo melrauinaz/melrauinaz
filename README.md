@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @melrauinaz, love all things tech! ;)
-- 👀 I’m interested in computer programming, always teaching myself new stuff. :)
+- 👋 Hi, I’m Melissa and I love all things tech! ;)
+- 👀 As a computer programmer, always teaching myself new stuff. :)
+- Certified DataAnalyst
+- 🌱 Keep my skills fresh on DataCamp.com - <a href="https://www.datacamp.com/portfolio/melissa-s-rau" target="_blank">DataCamp MSRau</a>                                         
 - 🌱 I’m currently learning Python!
-- 🌱 Currently enrolled in DataCamp.com - <a href="https://www.datacamp.com/portfolio/melissa-s-rau" target="_blank">DataCamp MSRau</a>                                         
-- 🌱 Fine-tuning my SQL skills on DataLemur, StratScratch Platforms!
 - 💞️ I’m looking to collaborate on data science projects using Python.
-- 🌱 Neural Networks - Currently working on self-driving car that doesn't use libraries so I can better understand the implementation of Neural Networks.
-- 📫 How to reach me: mel@melissacs.com
+- 🌱 Neural Networks - Currently working on a self-driving car in Javascript that doesn't use libraries so I can better understand their implementation.
+- 📫 How to reach me: mel @ melissacs.com
 
 <!---
 melrauinaz/melrauinaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
