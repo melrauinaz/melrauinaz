@@ -8,7 +8,7 @@
 - 🌱 Neural Networks - Currently working on a self-driving car in Javascript that doesn't use libraries so I can better understand their implementation. Thank you <a href="https://www.linkedin.com/in/radu-mariescu-istodor-4629301b8/"> Radu </a>!
 - 💞️ I’m looking to collaborate on data science projects using Python.
 - 📫 How to reach me: mel @ melissacs.com
-- Website: melissacs.com
+- Website: <a href="https://melissacs.com">melissacs.com</a>
 <!---
 melrauinaz/melrauinaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes..
