@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melissa and I love all things tech! ;)
-- 👀 Skills include react, Javascript, PHP, SQL, CSS5, Bootstrap, Bash/Shell, Data Analysis, Data ETL, Database Admin
+- 👀 Skills include React, Javascript, PHP, SQL, CSS5, Bootstrap, Bash/Shell, Data Analysis, Data ETL, Database Admin
 - eCommerce Platforms: Magento, OpenCart, Jooomla, Drupal and um WordPress, WooCommerce, LOL.
 - Survey and Lesson builders: LimeSurvey
 - Certified Data Analyst thru ATLytiCS Data for Hope: <a href="https://atlytics.org/units/education/">ATLytiCS</a>
